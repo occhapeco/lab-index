@@ -16,7 +16,7 @@ section#landing {
 	//background-position: center;
 }
 .bg{
-	background: url('../../img/bg3.jpg');
+	background: url('../../img/floresta.png');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -28,7 +28,7 @@ section#landing {
 }
 
 .bg1{
-	background: url('../../img/fto.jpg');
+	background: url('../../img/bg.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -38,7 +38,7 @@ section#landing {
 	background-color: rgba(0,0,0,0.3);
 }
 .bg3{
-	background: url('../../img/floresta.png');
+	background: url('../../img/bg3.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
